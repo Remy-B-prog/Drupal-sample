@@ -6,5 +6,4 @@ Dans web/sites/default/files créer un dossier translations
 Créer le fichier settings.php en utilisant le template default.settings.php à mettre dans web/site/default
 Remplir dans le setting.php la partie $databases['default']['default'] avec les infos du .env (mot de passe user ect..)
 Make shell puis taper les commandes "chmod -R 777 web/sites/default/files/" & "chmod -R 777 web/sites/default/settings.php"
-
 Aller sur l'installeur drupal http://drupal.docker.localhost:8000/core/install.php
